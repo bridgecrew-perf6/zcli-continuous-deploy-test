@@ -1,0 +1,17 @@
+{
+  "name": "Org ID test",
+  "author": {
+    "name": "Greg Katechis",
+    "email": "gkatechis@zendesk.com",
+    "url": "https://gregkatechis.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "organization_sidebar": "assets/iframe.html"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}

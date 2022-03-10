@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Org Field test app",
+    "short_description": "Testing org ID",
+    "long_description": "Testing org ID",
+    "installation_instructions": "Install!"
+  }
+}
